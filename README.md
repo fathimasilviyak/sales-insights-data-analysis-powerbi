@@ -1,4 +1,4 @@
-# Sales Insights Data Analysis 
+# Sales Data Analysis and Insights with Power BI
 
 ## Overview
 
